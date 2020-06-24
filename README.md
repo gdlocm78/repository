@@ -1,2 +1,2 @@
-# programacion
-Repositorio General de Codigo
+# repository
+General code repository
